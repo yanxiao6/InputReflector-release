@@ -1,6 +1,6 @@
 # InputReflector
 
-Code and extra results release of the paper "Generalizing Neural Networks by Reflecting Deviating Data in Production".
+Code release of the paper "Generalizing Neural Networks by Reflecting Deviating Data in Production".
 
 ## Introduction
 
